@@ -1,5 +1,5 @@
 Package.describe({
-    name:"cfs-transcoded-s3",
+    name:"cfs:transcoded-s3",
     version:"0.2.0",
     summary: "Storage adapter that uses AWS Elastic Transcoder to transcode and store files in S3"
 });
